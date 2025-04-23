@@ -21,3 +21,5 @@ NO connections were removed, im 99% it stills sends a message to the webhook, i 
 
 # Autism 
 ![image](https://github.com/user-attachments/assets/a13953db-b187-4f1c-b80a-f074c3d5e0c9)
+![image](https://github.com/user-attachments/assets/f9db6795-8765-47a8-99d1-9a037647f1ab)
+
