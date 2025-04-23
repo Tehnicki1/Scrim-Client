@@ -15,3 +15,6 @@ Cracking - Ykela
 
 # NOTE
 NO connections were removed, im 99% it stills sends a message to the webhook, i just removed the system exit's lmao. If you manage to remove all connections hmu dc: ykelaa
+
+# GUI
+![image](https://github.com/user-attachments/assets/7aad0025-9c37-4426-98f3-ae1ab8417209)
