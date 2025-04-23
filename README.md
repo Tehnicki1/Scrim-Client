@@ -18,3 +18,6 @@ NO connections were removed, im 99% it stills sends a message to the webhook, i 
 
 # GUI
 ![image](https://github.com/user-attachments/assets/7aad0025-9c37-4426-98f3-ae1ab8417209)
+
+# Autism 
+![image](https://github.com/user-attachments/assets/a13953db-b187-4f1c-b80a-f074c3d5e0c9)
