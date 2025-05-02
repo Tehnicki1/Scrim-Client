@@ -10,8 +10,9 @@ Dev said i cant crack it 💔
 3. Right shift to open the gui
 
 # Credits
-Made the client - foxiiwq / nixoly (owners: leny, synox)
-Cracking - Ykela
+Made the client - foxiiwq / nixoly (owners: leny, synox) <br />
+Cracking - Ykela <br />
+HM - Lighty (Absolute W of an insider)
 
 # NOTE
 NO connections were removed, im 99% it stills sends a message to the webhook, i just removed the system exit's lmao. If you manage to remove all connections hmu dc: ykelaa
